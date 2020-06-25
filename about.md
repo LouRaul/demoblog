@@ -1,4 +1,7 @@
-# About
+---
+layout: default.layout.njk
+title: About
+---
 
 > this is a blockquoten
 

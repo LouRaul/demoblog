@@ -1,4 +1,7 @@
-# My homepage
+---
+layout: default.layout.njk
+title: My homepage
+---
 
 This is some text with **bold phrases** and some _important words in italics_
 
